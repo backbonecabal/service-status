@@ -10,13 +10,13 @@ sites:
     url: https://sushiswap.fi
   - name: SushiSwap GraphQL Endpoint
     url: https://github.com/sushiswap/sushiswap-subgraph
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Sushi Bar
+    url: https://api.thegraph.com/subgraphs/name/sushiswap/sushi-bar
+  - name: SushiSwap Factory
+#    method: HEAD
+    url: https://api.thegraph.com/subgraphs/name/zippoxer/sushiswap-subgraph-fork
+  - name: SushiSwapV2
+    url: https://api.thegraph.com/subgraphs/name/sushiswap/sushiswap
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
