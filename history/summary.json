@@ -60,18 +60,20 @@
     "url": "https://api.thegraph.com/subgraphs/name/sushiswap/sushi-bar",
     "icon": "https://favicons.githubusercontent.com/api.thegraph.com",
     "slug": "sushi-bar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 196,
-    "timeDay": 194,
-    "timeWeek": 209,
-    "timeMonth": 196,
-    "timeYear": 196,
-    "dailyMinutesDown": {}
+    "time": 185,
+    "timeDay": 136,
+    "timeWeek": 192,
+    "timeMonth": 185,
+    "timeYear": 185,
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   },
   {
     "name": "SushiSwap Factory",
@@ -96,17 +98,19 @@
     "url": "https://api.thegraph.com/subgraphs/name/sushiswap/sushiswap",
     "icon": "https://favicons.githubusercontent.com/api.thegraph.com",
     "slug": "sushi-swap-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 105,
-    "timeWeek": 131,
-    "timeMonth": 126,
-    "timeYear": 126,
-    "dailyMinutesDown": {}
+    "time": 120,
+    "timeDay": 79,
+    "timeWeek": 122,
+    "timeMonth": 120,
+    "timeYear": 120,
+    "dailyMinutesDown": {
+      "2021-02-12": 0
+    }
   }
 ]
