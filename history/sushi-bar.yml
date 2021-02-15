@@ -1,7 +1,7 @@
 url: https://api.thegraph.com/subgraphs/name/sushiswap/sushi-bar
-status: down
-code: 503
-responseTime: 150
-lastUpdated: 2021-02-15T18:27:06.074Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2021-02-15T18:50:11.427Z
 startTime: Wed Feb 03 2021 11:26:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
