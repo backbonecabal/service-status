@@ -24,7 +24,7 @@
     "url": "https://sushiswap.fi",
     "icon": "https://favicons.githubusercontent.com/sushiswap.fi",
     "slug": "sushi-swap-exchange",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +36,7 @@
     "timeMonth": 309,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2021-03-14": 0,
       "2021-02-11": 15
     }
   },
